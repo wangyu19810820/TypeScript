@@ -8,5 +8,5 @@ function fun():void {
     console.log(1);
 }
 
-var f:any = 1;
+var f:any = 1;  // any是任意类型
 f = "abc";

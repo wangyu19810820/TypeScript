@@ -1,3 +1,4 @@
+// 类型别名
 type val = string;
 var a:val = 'abc';      // a只能是string型
 
